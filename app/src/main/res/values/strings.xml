@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CounterApp</string>
+    <string name="countText">Count: %1$d</string>
+</resources>
